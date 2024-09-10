@@ -7,10 +7,10 @@
     "body-parser": "^1.14.2",
     "botbuilder": "^1.0.1",
     "botconnector": "^0.9.6",
-    "ejs": "2.3.3",
-    "express": "4.13.3",
+    "ejs": "3.1.10",
+    "express": "4.20.0",
     "ms-rest": "^1.14.3",
-    "node-fetch": "1.5.3",
+    "node-fetch": "2.6.7",
     "request": "^2.67.0",
     "restify": "^4.1.1"
   },
